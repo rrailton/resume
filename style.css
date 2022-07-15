@@ -6,20 +6,20 @@ body {
     line-height: 130%;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.8em;
     letter-spacing: .5em;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
     letter-spacing: .1em;
     padding-bottom: 0.5em;
 }
 
 h3 {
-    font-size: 1.4em;
+    font-size: 1.5em;
 }
 
 h4 {
@@ -27,7 +27,7 @@ h4 {
 }
 main { 
     display: grid;
-    grid-template-columns: 65% 35%;
+    grid-template-columns: 60% 40%;
     margin-top: 1em;
 }
 header {
@@ -36,7 +36,7 @@ header {
 }
 
 section {
-    margin: auto 1em 2.7em 2em;
+    margin: auto 1em 2em 2em;
 }
 
 i {
@@ -45,6 +45,10 @@ i {
 
 p {
     margin: .2em auto
+}
+
+ul {
+    margin-bottom: -0.5em
 }
 
 li {
